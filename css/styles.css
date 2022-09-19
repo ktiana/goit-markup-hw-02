@@ -35,7 +35,7 @@
 line-height: 1.9;
 }
 .site-nav.current{
-  color: var(--accent-color);
+  color: #2196f3;
   }
 
 .link-header {
